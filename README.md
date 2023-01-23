@@ -27,7 +27,7 @@ Vous pouvez prendre le temps que vous avez besoin et vous pouvez également inst
 
 4. Implémenter une recherche de produits côté "front-end". La recherche doit:
    - Rechercher sur le nom de la compagnie et le nom du produit
-   - Ne pas être sensible à la casse (case-sensitive)
+   - Ne pas être sensible à la casse (case-insensitive)
    - Ne pas tenir compte des accents (ex: é, ê et è doivent être considéré comme des e)
    - Ne pas tenir compte des espaces en début et en fin de la recherche
 
@@ -39,6 +39,6 @@ Pour le visuel, vous pouvez regarder le `basic-example.png` dans le dossier exam
 
 #### Remise
 
-Une fois terminé, vous pouvez m'envoyer un .zip avec le repo (sans les nodes_modules), peu importe.
+Une fois terminé, vous pouvez m'envoyer un .zip avec le repo (sans les nodes_modules).
 
 GLHF!
